@@ -1,8 +1,0 @@
-P:\00 - Sort\00 - projects\MonBazouTools\MovePlugin\MovePlugin\bin\Debug\MovePlugin.exe.config
-P:\00 - Sort\00 - projects\MonBazouTools\MovePlugin\MovePlugin\bin\Debug\MovePlugin.exe
-P:\00 - Sort\00 - projects\MonBazouTools\MovePlugin\MovePlugin\bin\Debug\MovePlugin.pdb
-P:\00 - Sort\00 - projects\MonBazouTools\MovePlugin\MovePlugin\obj\Debug\MovePlugin.csproj.AssemblyReference.cache
-P:\00 - Sort\00 - projects\MonBazouTools\MovePlugin\MovePlugin\obj\Debug\MovePlugin.csproj.SuggestedBindingRedirects.cache
-P:\00 - Sort\00 - projects\MonBazouTools\MovePlugin\MovePlugin\obj\Debug\MovePlugin.csproj.CoreCompileInputs.cache
-P:\00 - Sort\00 - projects\MonBazouTools\MovePlugin\MovePlugin\obj\Debug\MovePlugin.exe
-P:\00 - Sort\00 - projects\MonBazouTools\MovePlugin\MovePlugin\obj\Debug\MovePlugin.pdb
